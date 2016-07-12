@@ -24,3 +24,12 @@ footer {
 #projectnumber{
   color: #666666;
 }
+
+#subheading{
+font-size:2.5em;
+text-align: center;
+text-transform: uppercase;
+font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+font-weight: 500;
+color: #666666;
+}
